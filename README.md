@@ -17,7 +17,7 @@ This Colab notebook demonstrates how to use Stable Video Diffusion (SVD) provide
 
 
 #### Video Generated from Image 1
-https://github.com/MiraSharma8511/Hands-on-DiffusionModel/assets/14325713/7c48b4d6-eb1e-4414-b60b-f39e23988e13
+https://github.com/MiraSharma8511/Hands-on-DiffusionModel/assets/14325713/500eae09-14d3-4edc-b5f4-b8a0e34edb55.mp4
 
 
 ### Image 2
