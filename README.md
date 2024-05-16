@@ -14,9 +14,15 @@ This Colab notebook demonstrates how to use Stable Video Diffusion (SVD) provide
 
 ### Image 1
 ![Image 1](https://github.com/MiraSharma8511/Hands-on-DiffusionModel/blob/main/rocket.png)
+
+
+#### Video Generated from Image 1
+<iframe width="560" height="315" src="https://youtu.be/7jv7viojLoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### Video Generated from Image 1
 <video width="320" height="240" controls>
-  <source src="(https://github.com/MiraSharma8511/Hands-on-DiffusionModel/blob/main/generated.mp4)" type="video/mp4">
+  <source src="((https://youtu.be/dSSVyGQiKks))" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
