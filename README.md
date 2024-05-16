@@ -17,29 +17,22 @@ This Colab notebook demonstrates how to use Stable Video Diffusion (SVD) provide
 
 
 #### Video Generated from Image 1
-<iframe width="560" height="315" src="https://youtu.be/7jv7viojLoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://github.com/MiraSharma8511/Hands-on-DiffusionModel/assets/14325713/7c48b4d6-eb1e-4414-b60b-f39e23988e13
 
-
-#### Video Generated from Image 1
-<video width="320" height="240" controls>
-  <source src="((https://youtu.be/dSSVyGQiKks))" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ### Image 2
 ![Image 2](https://github.com/MiraSharma8511/Hands-on-DiffusionModel/blob/main/export.png)
 #### Video Generated from Image 2
-<video width="320" height="240" controls>
-  <source src="(https://github.com/MiraSharma8511/Hands-on-DiffusionModel/blob/main/generated%20(1).mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/MiraSharma8511/Hands-on-DiffusionModel/assets/14325713/55be6385-c0fc-4ddd-b3c7-33a38d305fa6
+
 
 ### Image 3
 ![Image 3](https://github.com/MiraSharma8511/Hands-on-DiffusionModel/blob/main/Tiger-1.jpg)
-<video width="320" height="240" controls>
-  <source src="(https://github.com/MiraSharma8511/Hands-on-DiffusionModel/blob/main/generated%20(2).mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+#### Video Generated from Image 4
+https://github.com/MiraSharma8511/Hands-on-DiffusionModel/assets/14325713/6a95ab4b-3462-454f-896a-f7c4adf33b5a
+
+
 
 ## References
 
